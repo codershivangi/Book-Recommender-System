@@ -33,5 +33,19 @@ This project builds an **intelligent recommender system** that predicts books a 
 | Frontend | HTML, CSS (Jinja templates) |
 | Model Persistence | pickle |
 
+---
+
+## 🌟 Features
+- 📖 Suggests similar books instantly  
+- ⚡ Fast and lightweight (uses precomputed similarities)  
+- 💻 Simple web interface built with Flask  
+- 🧠 Easy to extend with new data or hybrid models
+
+---
+
+## 👩‍💻 Author
+**Shivangi Thakur**  
+🔗 [GitHub](https://github.com/codershivangi)
+
 
 
