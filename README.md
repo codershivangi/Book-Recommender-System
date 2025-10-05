@@ -22,6 +22,12 @@ This project builds an **intelligent recommender system** that predicts books a 
 
 ---
 
+## 🧠 Machine Learning Model
+- **Content-Based Filtering:** Recommends books with similar attributes.  
+- **Cosine Similarity:** Measures closeness between book vectors.
+
+---
+
 ## 🧩 Tech Stack
 
 | Category | Tools / Libraries |
