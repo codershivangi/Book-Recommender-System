@@ -4,8 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/ML-Content--Based-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A **Book Recommendation System** that suggests similar books based on user preferences using **machine learning** and **similarity-based filtering**.  
-It is a **Flask web app** where users can enter a book name and instantly get personalized book recommendations.
+A **Book Recommendation System** that suggests similar books based on user preferences using **machine learning** and **similarity-based filtering**. It is a **Flask web app** where users can enter a book name and instantly get personalized book recommendations.
 
 ---
 
